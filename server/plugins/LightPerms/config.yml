@@ -1,0 +1,24 @@
+default:
+  permissions:
+  - home.sethome
+  - home.delhome
+  - home.defaulthome
+  - home.home
+  - home.sethome.default
+  - build
+  - EconomyShopGUI.shop.all
+  - EconomyShopGUI.sellall.all
+  - EconomyShopGUI.sellallitem.all
+  - EconomyShopGUI.sellallhand.all
+  - EconomyShopGUI.sellgui.all
+  - sponge.command.help
+  - essentialsx.help
+  - essentials.help
+  - bounty.set
+  - bounty.view
+  - bounty.cancel
+  - headdb.open
+  - headdb.allow.buy.*
+groups:
+  examplegroup: {}
+users: {}

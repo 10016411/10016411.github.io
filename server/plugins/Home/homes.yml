@@ -1,0 +1,592 @@
+e5c9fdf4-5977-3d76-8ff4-1f786cea0d49:
+  hub:
+    default: true
+    name: hub
+    location:
+      x: 43.64661358581694
+      y: 64.0
+      z: 155.11559560222236
+      yaw: -0.30000004
+      pitch: 17.550001
+      world: world
+  home:
+    name: home
+    location:
+      x: -160.25239553934662
+      y: 128.0
+      z: -369.8752189953859
+      yaw: -27.44926
+      pitch: 18.659332
+      world: world_nether
+  jared:
+    name: Jared
+    location:
+      x: 53.511371158791405
+      y: 42.0
+      z: -104.09760196222544
+      yaw: 211.64394
+      pitch: 1.7999921
+      world: world
+a4d8aad2-e517-3aa2-a3bf-a8de488eb92b:
+  base:
+    default: true
+    name: base
+    location:
+      x: -160.9192736841942
+      y: 128.0
+      z: -366.38102639444065
+      yaw: -196.64929
+      pitch: 79.5
+      world: world_nether
+  spawn:
+    name: spawn
+    location:
+      x: 56.59769440965874
+      y: 70.0
+      z: 137.4410953279944
+      yaw: 14.410084
+      pitch: 35.3917
+      world: world
+64e4c14b-10cb-387d-9bd1-fd454de52796:
+  home:
+    default: true
+    name: home
+    location:
+      x: -161.36937905025465
+      y: 128.0
+      z: -362.1874701069175
+      yaw: 215.85107
+      pitch: 14.550009
+      world: world_nether
+  hub:
+    name: hub
+    location:
+      x: 52.58415126523486
+      y: 69.0
+      z: 108.55742127477657
+      yaw: 15.600507
+      pitch: 30.449995
+      world: world
+  dylon:
+    name: dylon
+    location:
+      x: 143.30000001192093
+      y: 46.0
+      z: 1.6275709344540266
+      yaw: 277.00848
+      pitch: 32.350597
+      world: world
+e1adf5ed-ce1f-3d18-9379-1dcd3df0c287:
+  amateur:
+    default: true
+    name: Amateur
+    location:
+      x: -16.35761657821878
+      y: 62.0
+      z: -6.058825781984222
+      yaw: 340.50006
+      pitch: 68.1
+      world: world
+  house1:
+    name: House1
+    location:
+      x: 5372.232630434339
+      y: 73.0
+      z: 396.38938513053336
+      yaw: 90.30008
+      pitch: 71.25
+      world: world
+9b319b5a-9593-3324-b4f5-17e4d37e5980:
+  whitehat:
+    default: true
+    name: whitehat
+    location:
+      x: -16.166147412949343
+      y: 63.0
+      z: -6.713527867941028
+      yaw: 3.0000305
+      pitch: 32.999996
+      world: world
+  jjbase:
+    name: jjbase
+    location:
+      x: 52.644325870520795
+      y: 63.0
+      z: -87.88533554466672
+      yaw: 303.90005
+      pitch: 71.4
+      world: world
+  ogbase:
+    name: ogbase
+    location:
+      x: 14.762117459769547
+      y: 79.0
+      z: -124.90899643742893
+      yaw: -330.30005
+      pitch: 22.349995
+      world: world
+beb1f0e1-a20e-397e-9661-e2e380a8e954:
+  jared:
+    name: jared
+    location:
+      x: 57.23919830392851
+      y: 44.0
+      z: -82.95088200989963
+      yaw: 181.50067
+      pitch: 23.55001
+      world: world
+  spawn:
+    name: spawn
+    location:
+      x: 40.505318709568655
+      y: 69.48063971544346
+      z: 161.77091908279834
+      yaw: 355.74268
+      pitch: 42.2011
+      world: world
+  davion:
+    name: davion
+    location:
+      x: -153.78528308316407
+      y: 128.0
+      z: -372.62369682210135
+      yaw: 6.4181423
+      pitch: 14.399993
+      world: world_nether
+d8cbdbc4-656a-3202-b171-1558776f63f8:
+  mine:
+    name: mine
+    location:
+      x: -95.05571213268023
+      y: 58.0
+      z: -39.052864140164566
+      yaw: 38.700016
+      pitch: 53.699997
+      world: world
+  storage:
+    name: storage
+    location:
+      x: -160.10671233979704
+      y: 128.0
+      z: -367.1103860992964
+      yaw: -265.6491
+      pitch: 13.200009
+      world: world_nether
+  spawn:
+    name: Spawn
+    location:
+      x: 38.86749442207007
+      y: 68.0
+      z: 163.30746065031775
+      yaw: 66.09269
+      pitch: 33.149994
+      world: world
+594a53ff-bbef-3730-8510-12f93271c15e:
+  base:
+    default: true
+    name: base
+    location:
+      x: -474.30000001192093
+      y: 84.0
+      z: -711.6999999880791
+      yaw: -41.88977
+      pitch: 17.465988
+      world: world
+c6f2df4c-e7ad-3169-8d4b-7b4afd1df662:
+  diamond:
+    name: diamond
+    location:
+      x: 20.4728317558386
+      y: 13.0
+      z: -239.30000001192093
+      yaw: 212.70093
+      pitch: 28.799995
+      world: world
+  mountain:
+    name: mountain
+    location:
+      x: -460.2511134406554
+      y: 80.0
+      z: -706.8677169698339
+      yaw: -83.73959
+      pitch: 37.415993
+      world: world
+  ss:
+    name: ss
+    location:
+      x: 43.30000001192093
+      y: 64.0
+      z: 156.12006006031862
+      yaw: -82.05001
+      pitch: 10.800001
+      world: world
+b4b588a0-cdfb-3152-bf04-75edc2766139:
+  cavehome:
+    default: true
+    name: CAVEHOME
+    location:
+      x: 60.59528689720377
+      y: 42.0
+      z: -105.84355921707606
+      yaw: 220.65018
+      pitch: 29.550003
+      world: world
+2206bc43-8ac1-359b-8ee1-1c27b744eeca:
+  home:
+    default: true
+    name: home
+    location:
+      x: 136.69999998807907
+      y: 68.0
+      z: -654.6999999880791
+      yaw: 56.700153
+      pitch: 29.99999
+      world: world
+ac203d35-360c-3364-a0a1-9d0914b7226f:
+  rad:
+    default: true
+    name: rad
+    location:
+      x: 137.20807324386678
+      y: 64.0
+      z: -662.5642877904463
+      yaw: 81.450195
+      pitch: 20.849989
+      world: world
+  new:
+    name: new
+    location:
+      x: 1685.4013237198694
+      y: 74.0
+      z: -2882.6220812849065
+      yaw: 3.0138047
+      pitch: 49.499996
+      world: world
+  tad:
+    name: tad
+    location:
+      x: 144.22730114711163
+      y: 73.0
+      z: -597.6323311096328
+      yaw: 345.75018
+      pitch: 81.0
+      world: world
+c559097f-f27a-3aea-9059-d3f2ddba894a:
+  home:
+    default: true
+    name: home
+    location:
+      x: 133.16712247781513
+      y: 65.0
+      z: -662.5007902554572
+      yaw: 264.00024
+      pitch: 5.0999875
+      world: world
+  dicky:
+    name: dicky
+    location:
+      x: -79.10110894574196
+      y: 64.0
+      z: 9.699999988079082
+      yaw: 209.55013
+      pitch: 13.199993
+      world: world
+a84d989b-a118-3c40-b5e0-881edd38b27d:
+  home:
+    default: true
+    name: home
+    location:
+      x: 134.54123467790163
+      y: 67.0
+      z: -658.1385923730858
+      yaw: 174.66699
+      pitch: 19.875792
+      world: world
+  tad:
+    name: tad
+    location:
+      x: 1689.726082278308
+      y: 63.0
+      z: -2899.3490140273366
+      yaw: 190.96393
+      pitch: 34.20001
+      world: world
+b6b5491b-eff9-3b89-b857-f7458a927cbb:
+  home:
+    default: true
+    name: home
+    location:
+      x: 143.5618825317662
+      y: 46.0
+      z: -8.045782251894234
+      yaw: 182.58978
+      pitch: 32.128014
+      world: world
+  raid:
+    name: raid
+    location:
+      x: 14.879958752127887
+      y: 106.0
+      z: -126.25437515251488
+      yaw: -304.7791
+      pitch: 4.650836
+      world: world
+  spawn:
+    name: spawn
+    location:
+      x: 43.98397627190211
+      y: 64.0
+      z: 156.50782102650425
+      yaw: 356.5979
+      pitch: -16.654232
+      world: world
+5f4f9612-b878-3a54-ae59-416da286e223:
+  bbb:
+    default: true
+    name: bbb
+    location:
+      x: 14.699999988079071
+      y: 27.0
+      z: -93.34403043067563
+      yaw: -43.94987
+      pitch: 26.700012
+      world: world
+  bb:
+    name: bb
+    location:
+      x: 213.12007162052396
+      y: 13.0
+      z: -108.69999998807907
+      yaw: 319.20032
+      pitch: 17.249994
+      world: world
+64a5ae65-b46e-314a-9d40-048e0cb369e2:
+  wood:
+    default: true
+    name: wood
+    location:
+      x: -41.36445432176758
+      y: 71.0
+      z: -724.3000000119209
+      yaw: 351.6738
+      pitch: 28.297497
+      world: world
+  rocks:
+    name: rocks
+    location:
+      x: -463.410311169726
+      y: 81.0
+      z: -706.6838627253456
+      yaw: -258.2268
+      pitch: 26.849995
+      world: world
+  rock:
+    name: rock
+    location:
+      x: 38.981030641077226
+      y: 41.0
+      z: -99.49102838379747
+      yaw: 259.9017
+      pitch: 30.509663
+      world: world
+054ee73c-0518-386f-a599-d17c7e90faa5:
+  ski:
+    default: true
+    name: ski
+    location:
+      x: 276.2472887931718
+      y: 60.0
+      z: 39.31198506277324
+      yaw: -78.24194
+      pitch: -10.350009
+      world: world
+e499f14d-8aca-367a-98e1-6cb2cf5af902:
+  ski:
+    default: true
+    name: ski
+    location:
+      x: 278.19630931872416
+      y: 60.0
+      z: 39.237500011920936
+      yaw: -157.74194
+      pitch: 47.699997
+      world: world
+  cave:
+    name: cave
+    location:
+      x: 305.4427442320852
+      y: 12.0
+      z: 100.76373164309688
+      yaw: -287.8905
+      pitch: 18.904345
+      world: world
+  revine:
+    name: revine
+    location:
+      x: 308.40281883298087
+      y: 19.0
+      z: 62.52915328817144
+      yaw: 81.6582
+      pitch: 15.449993
+      world: world
+b6accabf-8e44-3c9d-aca6-e41108caf47c:
+  powertaco289:
+    default: true
+    name: PowerTaco289
+    location:
+      x: 1.1258224597957498
+      y: 64.0
+      z: -84.61417479810775
+      yaw: -315.3001
+      pitch: 22.349995
+      world: world
+fa1914cb-b97f-3533-a2a4-6a31915c015f:
+  jewhater420:
+    default: true
+    name: JewHater420
+    location:
+      x: 19.300000011920915
+      y: 67.0
+      z: 21.84987326935789
+      yaw: 97.80029
+      pitch: 14.400009
+      world: world
+  skihome:
+    name: SkiHome
+    location:
+      x: 288.5032697498925
+      y: 60.0
+      z: 41.30000001192093
+      yaw: 247.51904
+      pitch: 32.23696
+      world: world
+b2b07295-e550-374e-934e-c388e0f2c3dd:
+  home:
+    default: true
+    name: home
+    location:
+      x: 65.0513160387622
+      y: 19.0
+      z: -250.3811124370385
+      yaw: -50.31891
+      pitch: 9.145748
+      world: world
+40d86e7c-966e-36f9-85d8-fae1b7c1a43a:
+  thakik:
+    default: true
+    name: thakik
+    location:
+      x: 1685.0753144634189
+      y: 70.0
+      z: -2888.9827190343726
+      yaw: -95.38629
+      pitch: 14.5499935
+      world: world
+  mine:
+    name: mine
+    location:
+      x: 253.53420425845542
+      y: 15.0
+      z: 179.30000001192093
+      yaw: 2.1481018
+      pitch: 1.6499921
+      world: world
+  main:
+    name: main
+    location:
+      x: -1197.7254040385978
+      y: 93.875
+      z: 1052.5293415469014
+      yaw: -6.149994
+      pitch: 49.799995
+      world: world
+e2eff223-d241-304e-9879-df97e9df6176:
+  ah:
+    default: true
+    name: AH
+    location:
+      x: 1676.699999988079
+      y: 55.0
+      z: -2877.8843682362017
+      yaw: 351.6138
+      pitch: 24.299994
+      world: world
+26618cc5-6a56-30de-b001-127c0db52510:
+  ahs:
+    name: AHs
+    location:
+      x: 1686.3187009416486
+      y: 70.0
+      z: -2888.1420321675514
+      yaw: -316.48636
+      pitch: 24.899996
+      world: world
+  spawner:
+    name: Spawner
+    location:
+      x: -1081.794753092079
+      y: 13.0
+      z: 1039.7582835898984
+      yaw: -7.953541
+      pitch: 33.299995
+      world: world
+  woods:
+    name: woods
+    location:
+      x: -315.55942468871314
+      y: 70.0
+      z: -331.62337058603737
+      yaw: -220.80011
+      pitch: 18.899994
+      world: world
+6aa7af42-a237-3c5f-b720-3e43d61d1e5b:
+  base:
+    default: true
+    name: base
+    location:
+      x: -451.79766627805026
+      y: 99.0
+      z: -171.75527681125152
+      yaw: -30.900003
+      pitch: 32.85001
+      world: world
+  mining1:
+    name: mining1
+    location:
+      x: -479.69999998807907
+      y: 61.0
+      z: -185.55019524270602
+      yaw: -175.65005
+      pitch: 25.799994
+      world: world
+  mining2:
+    name: mining2
+    location:
+      x: -422.30000001192093
+      y: 9.0
+      z: -258.69999998807907
+      yaw: -311.61914
+      pitch: 22.499994
+      world: world
+200eaea0-7108-3a54-961c-a93593acca75:
+  base:
+    default: true
+    name: Base
+    location:
+      x: -1292.3198320543029
+      y: 93.0
+      z: 1021.2835648946564
+      yaw: -171.30374
+      pitch: 14.999992
+      world: world
+aa351f26-bf46-3dd7-ab29-08c8d7c91114:
+  base1:
+    default: true
+    name: base1
+    location:
+      x: 5348.50929910592
+      y: 63.0
+      z: 401.5610788315481
+      yaw: 40.950195
+      pitch: 29.10001
+      world: world

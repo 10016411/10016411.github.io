@@ -1,0 +1,59 @@
+teleport-delay:
+  use: true
+  # Time in seconds
+  time: 10
+  # Cancels the teleport if the player moves
+  move-cancel: false
+  # Cancels the teleport if the player takes damage
+  damage-cancel: true
+  # Send the message: "home-teleport-delay-seconds" every second
+  messages: true
+
+# If true players respawn at their default home
+defaulthome:
+  use: true
+
+# Add the permission to players: home.sethome.<group>
+# Replace <group> with the group - example: home.sethome.default
+# You can add your own groups
+# Set infinity homes with -1
+groups:
+  default: 3
+  admin: -1
+
+# Specify worlds in which players are not allowed to set a home
+# with the permission "home.sethome.blacklist" players are allowed to set homes in this worlds
+blacklist: [ ]
+
+# Edit the messages
+messages:
+  prefix: '&8[&eHome&8] '
+  noPermission: '&cYou do not have access to this command.'
+  noPlayer: '&cThis player is not online.'
+  consolesender: '&cOnly player can execute this command.'
+  noHome: '&cYou do not have a home by that name.'
+  noHomeTarget: '&c%player% does not have a home by that name.'
+  sethome-set: '&7Your home &e%name% &7has been set.'
+  sethome-has: '&cYou already have a home with that name.'
+  sethome-max: '&cYou cannot set any more homes.'
+  sethome-blacklist: '&cYou are not allowed to set a home in this world.'
+  sethome-usage: '&7Use /Sethome <name>.'
+  sethome-format: '&cThe home can only contain letters and numbers.'
+  delhome-delete: '&7Your home &e%name% &7has been deleted.'
+  delhome-delete-target: '&e%player%''s &7home &e%name%&7 has been deleted.'
+  delhome-usage: '&7Use /Delhome <name>.'
+  home-teleport-delay-seconds: '&7You will be teleported in %seconds% seconds.'
+  home-teleport-delay-second: '&7You will be teleported in one second.'
+  home-teleport: '&7You have been teleported to your home &e%name%&7.'
+  home-teleport-target: '&7You have been teleported to &e%player%''s &7home &e%name%&7.'
+  home-cancel: '&cThe teleport process was canceled.'
+  home-usage: '&7Use /Home <name>.'
+  homes-empty: '&cYou do not have any homes.'
+  homes-empty-target: '&c%player% does not have any homes.'
+  homes-title: '&7Your homes:'
+  homes-title-target: '&7%player%''s homes:'
+  homes-content: '&8- &7%name% '
+  homes-teleport: '&8[&bTeleport&8]'
+  homes-usage: '&7Use /Homes.'
+  defaulthome-set: '&7You are now respawning at your home &e%name%&7.'
+  defaulthome-usage: '&7Use /Defaulthome <name>.'
