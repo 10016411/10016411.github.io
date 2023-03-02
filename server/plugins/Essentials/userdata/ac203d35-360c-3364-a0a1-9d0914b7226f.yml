@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677615558350
+  login: 1677614428156
+money: '50.890000000000004'
+last-account-name: tad
+logoutlocation:
+  world: cb2cd59f-a5f8-4180-8903-871ef3a9f565
+  world-name: world
+  x: -15.699999988079082
+  y: 63.24918707874468
+  z: -711.9191118549637
+  yaw: 8.25018310546875
+  pitch: 16.949995040893555

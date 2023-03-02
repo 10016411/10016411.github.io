@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677274705309
+  login: 1677274448103
+money: '0'
+last-account-name: Johnolectronic
+logoutlocation:
+  world: cb2cd59f-a5f8-4180-8903-871ef3a9f565
+  world-name: world
+  x: 106.57304489449504
+  y: 63.0
+  z: -169.69999998807904
+  yaw: 123.90005493164062
+  pitch: 12.599992752075195

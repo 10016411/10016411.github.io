@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677510685848
+  login: 1677510474601
+money: '0'
+last-account-name: AlvaroSmacker
+logoutlocation:
+  world: cb2cd59f-a5f8-4180-8903-871ef3a9f565
+  world-name: world
+  x: -96.69999998807907
+  y: 71.0
+  z: -752.6336978538536
+  yaw: 92.69967651367188
+  pitch: 29.84999656677246

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677620279793
+  login: 1677619307115
+money: '402.48'
+last-account-name: Caleb
+logoutlocation:
+  world: 00b93fcd-e321-4b76-b57f-d098fa9722c9
+  world-name: world_nether
+  x: -166.46787800533147
+  y: 242.5
+  z: -363.34949215192955
+  yaw: -291.1490478515625
+  pitch: 65.0999984741211

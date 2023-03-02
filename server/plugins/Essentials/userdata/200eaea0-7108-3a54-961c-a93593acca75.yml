@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677620288137
+  login: 1677617738423
+money: '104.1300000000000805'
+last-account-name: PAPADAVID
+logoutlocation:
+  world: 00b93fcd-e321-4b76-b57f-d098fa9722c9
+  world-name: world_nether
+  x: -188.87207082084078
+  y: 129.0
+  z: -368.0298416957053
+  yaw: -74.098876953125
+  pitch: 20.54999351501465

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677614795531
+  login: 1677614100322
+money: '0.0'
+last-account-name: Jared_Douglass
+logoutlocation:
+  world: 00b93fcd-e321-4b76-b57f-d098fa9722c9
+  world-name: world_nether
+  x: -160.9192736841942
+  y: 128.0
+  z: -366.38102639444065
+  yaw: -196.79928588867188
+  pitch: 79.5

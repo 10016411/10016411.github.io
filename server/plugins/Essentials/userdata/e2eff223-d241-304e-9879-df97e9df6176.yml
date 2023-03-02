@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677340024816
+  login: 1677340001912
+money: '3.5999999999999997'
+last-account-name: AlexTH
+logoutlocation:
+  world: 00b93fcd-e321-4b76-b57f-d098fa9722c9
+  world-name: world_nether
+  x: 207.95043756177913
+  y: 65.0
+  z: -357.17936746067267
+  yaw: 108.46382141113281
+  pitch: 41.999996185302734

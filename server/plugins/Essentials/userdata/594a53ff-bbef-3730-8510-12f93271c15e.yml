@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677620254066
+  login: 1677617572478
+money: '1720.7199999999999072'
+last-account-name: thenxggaantwan
+logoutlocation:
+  world: cb2cd59f-a5f8-4180-8903-871ef3a9f565
+  world-name: world
+  x: -521.9139043836935
+  y: 81.0
+  z: -694.3000000119209
+  yaw: 79.30995178222656
+  pitch: 11.399992942810059

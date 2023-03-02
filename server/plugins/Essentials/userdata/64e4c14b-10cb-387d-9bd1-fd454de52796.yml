@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677620241024
+  login: 1677618060997
+  kits:
+    notch: 1677605855131
+    dtools: 1677617777279
+    tools: 1677605916357
+    color: 1677606210220
+    firework: 1677606225805
+money: '2.899999999999998'
+last-account-name: FaxMachine
+logoutlocation:
+  world: cb2cd59f-a5f8-4180-8903-871ef3a9f565
+  world-name: world
+  x: 144.49289132095342
+  y: 46.0
+  z: -1.9546508843501178
+  yaw: 166.15847778320312
+  pitch: 44.3505973815918

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677603992038
+  login: 1677603986664
+money: '349.45000000000022'
+last-account-name: Chase
+logoutlocation:
+  world: 00b93fcd-e321-4b76-b57f-d098fa9722c9
+  world-name: world_nether
+  x: -155.25689562687626
+  y: 128.0
+  z: -368.0927015453201
+  yaw: 52.168182373046875
+  pitch: 15.449993133544922
