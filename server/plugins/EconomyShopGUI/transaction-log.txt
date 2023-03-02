@@ -1,0 +1,43 @@
+[2023-02-24 05:45:49] - FaxMachine sold 4x Rotten Flesh(Mobs.12) for 5 Points with the sell gui.
+[2023-02-24 06:04:04] - bbb sold 64x Cobblestone(Blocks.16), 21x Seeds(Farming.17) for $26.63 with the sell gui.
+[2023-02-24 06:04:34] - thenxggaantwan sold 2x Dirt(Blocks.21), 1x Sand(Blocks.42) for $3 with the sell gui.
+[2023-02-24 06:08:55] - bbb sold 200x Smooth Brick(Blocks.52), 12x Wood Step(Blocks.65), 64x Sugar Cane(Farming.15), 640x Cobblestone(Blocks.16), 4x Bone(Mobs.4), 52x Redstone(Ores.15), 8x Dark Oak Stairs(Blocks.66), 4x Sulphur(Mobs.8), 27x Dirt(Blocks.21), 30x Seeds(Farming.17), 62x Stone(Blocks.7) for $298.11 with the sell gui.
+[2023-02-24 06:13:42] - bbb sold 94x Seeds(Farming.17) for $70.50 with the sell gui.
+[2023-02-24 06:16:34] - bbb bought 1 x Slime Ball(Miscellaneous.16) for $5 with the buy screen.
+[2023-02-24 06:16:35] - bbb bought 1 x Slime Ball(Miscellaneous.16) for $5 with the buy screen.
+[2023-02-24 06:16:37] - bbb bought 1 x Slime Ball(Miscellaneous.16) for $5 with the buy screen.
+[2023-02-24 06:16:38] - bbb bought 1 x Slime Ball(Miscellaneous.16) for $5 with the buy screen.
+[2023-02-24 06:45:31] - bbb sold 247x Cobblestone(Blocks.16), 61x Stone(Blocks.18), 7x Stone(Blocks.11), 27x Stone(Blocks.29) for $59.09 with the sell gui.
+[2023-02-28 00:09:00] - BidenBadPresiden sold 64x Gold Ingot(Ores.8) for $504.32 with the sell gui.
+[2023-02-28 19:09:50] - tad bought 6 x Carrot Item(Farming.3) for $30 with the buy screen.
+[2023-02-28 19:13:01] - tad bought 4 x Melon Seeds(Farming.8) for $12 with the buy screen.
+[2023-02-28 19:16:25] - thenxggaantwan sold 3x Stone(Blocks.29), 3x Stone(Blocks.11), 241x Cobblestone(Blocks.16), 3x Stone(Blocks.18) for $42.59 with the sell gui.
+[2023-02-28 19:17:03] - thenxggaantwan sold 11x Coal(Ores.1) for $57.75 with the sell gui.
+[2023-02-28 19:27:07] - tad bought 2 x Leash(Miscellaneous.9) for $34.66 with the buy screen.
+[2023-02-28 19:27:32] - tad bought 1 x Map(Miscellaneous.11) for $99.29 with the buy screen.
+[2023-02-28 19:27:51] - tad bought 2 x Web(Miscellaneous.3) for $80 with the buy screen.
+[2023-02-28 19:36:31] - PAPADAVID sold 1 x Leather(Farming.6) for $8.40 with the sell screen.
+[2023-02-28 19:36:46] - thenxggaantwan sold 1x String(Mobs.14), 1x Spider Eye(Mobs.13), 6x Redstone(Ores.15), 128x Cobblestone(Blocks.16) for $33.18 with the sell gui.
+[2023-02-28 19:36:46] - PAPADAVID sold 4 x Rotten Flesh(Mobs.12) for $5 with the sell screen.
+[2023-02-28 19:37:56] - thenxggaantwan sold 406x Cobblestone(Blocks.16) for $69.02 with the sell gui.
+[2023-02-28 20:05:16] - tad sold 64x Dirt(Blocks.21) for $48 with the sell gui.
+[2023-02-28 20:05:22] - PAPADAVID sold 17 x Redstone(Ores.15) for $22.44 with the sell screen.
+[2023-02-28 20:05:28] - PAPADAVID sold 64 x Redstone(Ores.15) for $84.48 with the sell screen.
+[2023-02-28 20:05:28] - PAPADAVID sold 40 x Redstone(Ores.15) for $52.80 with the sell screen.
+[2023-02-28 20:05:51] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:52] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:52] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:52] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:53] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:53] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:53] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:54] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:54] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:54] - PAPADAVID sold 64 x Cobblestone(Blocks.16) for $10.88 with the sell screen.
+[2023-02-28 20:05:55] - PAPADAVID sold 51 x Cobblestone(Blocks.16) for $8.67 with the sell screen.
+[2023-02-28 20:06:05] - PAPADAVID bought 1 x Ender Chest(Miscellaneous.4) for $273.12 with the buy screen.
+[2023-02-28 20:12:22] - Caleb bought 17 x Cooked Beef(Food.6) for $107.10 with the buy screen.
+[2023-02-28 20:12:29] - PAPADAVID sold 64 x Dirt(Blocks.21) for $48 with the sell screen.
+[2023-02-28 20:12:30] - PAPADAVID sold 64 x Dirt(Blocks.21) for $48 with the sell screen.
+[2023-02-28 20:12:30] - PAPADAVID sold 64 x Dirt(Blocks.21) for $48 with the sell screen.
+[2023-02-28 20:12:32] - PAPADAVID sold 64 x Dirt(Blocks.21) for $48 with the sell screen.
